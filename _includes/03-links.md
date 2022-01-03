@@ -1,1 +1,1 @@
-[github profile link](https://github.com/kimbtucker)
+[GithubLink](https://github.com/kimbtucker)
